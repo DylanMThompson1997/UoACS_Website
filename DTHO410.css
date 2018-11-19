@@ -14,6 +14,26 @@ h2 {
 	text-align: right;
 }
 
+.login {
+    background-color: #eee;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 20%;
+}
+
+input {
+	padding: 12px 20px;
+	width: 100%;
+	border: 2px solid #000;
+}
+
+textarea {
+	padding: 12px 20px;
+	width: 100%;
+	border: 2px solid #000;
+}
+
 .menu{
 	background-color: #0000ff;
 	text-align: center;
